@@ -13,6 +13,7 @@ Mamidisetti Naveen
 Vyshnavi Velaga
 
 Boddeda Venkata Pavan Karthikeya
+
 Project Overview:
 The Third Eye for the Blind project is an innovative and cost-effective solution designed to enhance the mobility and independence of visually impaired individuals. This Minimum Viable Product (MVP) focuses on delivering essential functionality while ensuring simplicity, affordability, and effectiveness. The device employs ultrasonic sensors to detect obstacles and provides real-time audible feedback, enabling users to navigate their surroundings with confidence.
 
